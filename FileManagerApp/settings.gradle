@@ -1,3 +1,0 @@
-// Settings Gradle for FileManagerApp
-rootProject.name = "FileManagerApp"
-include ":app"
